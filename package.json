@@ -1,9 +1,9 @@
 {
-  "name": "nil-syntax",
+  "name": "nil-one-syntax",
   "theme": "syntax",
   "version": "0.1.0",
   "description": "A dark colored syntax theme for Atom.",
-  "repository": "https://github.com/Nitrino/nil-syntax",
+  "repository": "https://github.com/jdsimcoe/nil-one-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
